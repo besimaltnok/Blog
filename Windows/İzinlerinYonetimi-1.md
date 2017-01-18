@@ -1,0 +1,2 @@
+### Windows Dosya İzinleri Yönetimi
+
