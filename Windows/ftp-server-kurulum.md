@@ -37,7 +37,7 @@
     - FTP Replication
     - FTP Server
 
-<img src="/images/IIS9.png" height="400" width="550"/>
+<img src="/images/IIS10.png" height="400" width="550"/>
 
 9 ) Firewall Inbound Rules
 
@@ -45,7 +45,7 @@
     - FTP Server Passive (FTP Passive Traffic-In)
     - FTP Serve Secure (FTP SSL Traffic-In)
 
-<img src="/images/IIS10.png" height="400" width="550"/>
+<img src="/images/IIS12.png" height="400" width="550"/>
 
 10 ) Now ready!
 
